@@ -1,0 +1,7 @@
+C:\Users\iohan\source\repos\Clube_da_leitura.ConsoleApp\Clube_da_leitura\bin\Debug\Clube_da_leitura.exe.config
+C:\Users\iohan\source\repos\Clube_da_leitura.ConsoleApp\Clube_da_leitura\bin\Debug\Clube_da_leitura.exe
+C:\Users\iohan\source\repos\Clube_da_leitura.ConsoleApp\Clube_da_leitura\bin\Debug\Clube_da_leitura.pdb
+C:\Users\iohan\source\repos\Clube_da_leitura.ConsoleApp\Clube_da_leitura\obj\Debug\Clube_da_leitura.csprojAssemblyReference.cache
+C:\Users\iohan\source\repos\Clube_da_leitura.ConsoleApp\Clube_da_leitura\obj\Debug\Clube_da_leitura.csproj.CoreCompileInputs.cache
+C:\Users\iohan\source\repos\Clube_da_leitura.ConsoleApp\Clube_da_leitura\obj\Debug\Clube_da_leitura.exe
+C:\Users\iohan\source\repos\Clube_da_leitura.ConsoleApp\Clube_da_leitura\obj\Debug\Clube_da_leitura.pdb
